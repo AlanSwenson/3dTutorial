@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://cnlba4fegc4bh" path="res://art/mob.glb" id="1_x685o"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_j8gti"]
-size = Vector3(1.46599, 1, 1.8354)
+size = Vector3(2.2744, 1, 2.59431)
 
 [node name="Mob" type="CharacterBody3D" groups=["mob"]]
 collision_layer = 2
